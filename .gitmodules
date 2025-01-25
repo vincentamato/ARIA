@@ -1,0 +1,3 @@
+[submodule "src/models/midi_emotion"]
+	path = src/models/midi_emotion
+	url = https://github.com/serkansulun/midi-emotion.git

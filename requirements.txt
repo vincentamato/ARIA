@@ -1,0 +1,6 @@
+transformers
+torch
+Pillow
+pypianoroll
+tqdm
+pretty_midi
