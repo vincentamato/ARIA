@@ -4,3 +4,4 @@ Pillow
 pypianoroll
 tqdm
 pretty_midi
+pydantic==2.10.6
